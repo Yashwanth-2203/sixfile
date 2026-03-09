@@ -1,4 +1,4 @@
-num = int(input("Enter a number: "))
+num = 8
 
 if num % 2 == 0:
     print("Even number")
